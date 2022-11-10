@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\gooey\dropbox\school\datastructures\codeprojects\codeprojects\project6\main.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\gooey\dropbox\school\datastructures\codeprojects\codeprojects\project6\main.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  Project6.vcxproj -> C:\Users\gooey\Dropbox\School\DataStructures\CodeProjects\CodeProjects\Debug\Project6.exe

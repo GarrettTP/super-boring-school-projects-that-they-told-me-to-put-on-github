@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\gooey\dropbox\school\datastructures\codeprojects\codeprojects\project5\main.cpp(26): warning C4715: 'Stack_Queue<int>::Pop': not all control paths return a value
+  Project5.vcxproj -> C:\Users\gooey\Dropbox\School\DataStructures\CodeProjects\CodeProjects\Debug\Project5.exe
